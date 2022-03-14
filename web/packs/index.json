@@ -2,7 +2,8 @@
   "packs": [
     "thesimpsonsRu.json",
     "Sasbalas.json",
-    "ushastik_stickers.json"
+    "ushastik_stickers.json",
+    "krtkrt.json"
   ],
   "homeserver_url": "https://matrix.mitkah.de"
 }
