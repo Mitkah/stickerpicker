@@ -1,6 +1,7 @@
 {
   "packs": [
-    "thesimpsonsRu.json"
+    "thesimpsonsRu.json",
+    "Sasbalas.json"
   ],
   "homeserver_url": "https://matrix.mitkah.de"
 }
