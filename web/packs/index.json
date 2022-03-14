@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "thesimpsonsRu.json"
+  ],
+  "homeserver_url": "https://matrix.mitkah.de"
+}
